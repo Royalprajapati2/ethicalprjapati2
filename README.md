@@ -16,7 +16,7 @@
 - 💻 Exploring **Web Development** and **Python ** Html&css** Java** java script** etc language   
 - 🌱 Currently learning: `Networking`, `Linux`, `Bug Bounties`
 - 🛠️ Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Git, VS Code
-- 📫 Reach me: [ethicalprjapati2@gmail.com](princeprjapati2006@gmail.com)
+- 📫 Reach me: [(princeprjapati2006@gmail.com)]
 
 ---
 
