@@ -1,6 +1,6 @@
 <!-- Profile README for ethicalprjapati2 -->
 
-<h1 align="center">👋 Hi there, I'm  EthicalPrajapati</h1>
+<h1 align="center">👋 Hi there, I'm  Royalprajapati</h1>
 
 <p align="center">
   Web devloper
