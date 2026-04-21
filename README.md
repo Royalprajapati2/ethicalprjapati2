@@ -1,64 +1,78 @@
-<!-- Profile README for ethicalprjapati2 -->
+<!-- GitHub Profile README -->
 
-<h1 align="center">👋 Hi there, I'm  Royalprajapati</h1>
+<h1 align="center">Royal Prajapati</h1>
 
 <p align="center">
-  Web devloper
-  🧑‍💻 Coder |  Ethical Hacker | 💡 Learner | 💻 Tech Enthusiast <br>
-  🌐 Exploring the world of Cybersecurity & Programming 
+  💻 Full Stack Developer • JavaScript • Problem Solving
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🔐 Passionate about **Ethical Hacking** and **Programmer**
-- 💻 Exploring **Web Development** and **Python ** Html&css** Java** java script** etc language   
-- 🌱 Currently learning: `Networking`, `Linux`, `Bug Bounties`
-- 🛠️ Tools: Kali Linux, Burp Suite, Nmap, Wireshark, Git, VS Code
-- 📫 Reach me: [(princeprjapati2006@gmail.com)]
+I am a developer focused on building clean, responsive, and user-focused web applications.  
+I enjoy solving problems and continuously improving my development skills.
 
 ---
 
-## 🧰 Tech Stack
+## Skills
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- HTML, CSS, JavaScript  
+- Java, Python  
+- Git & GitHub  
+- Responsive Web Design  
 
 ---
 
-## 📊 GitHub Stats
+## Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ethicalprjapati2&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethicalprjapati2&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethicalprjapati2&layout=compact&theme=tokyonight" />
-</div>
+**Restaurant Website**  
+Responsive website with modern UI and mobile-friendly design.
 
----
+**Portfolio Website**  
+Personal developer portfolio focused on performance and clean design.
 
-## 🧠 Fun Fact
-
-> "Hacking is not always a crime — it’s a skill. It depends on how you use it." 🕶️
-> "// I don’t have bugs. I just develop random features" 🕶️
->  "Coding is 90% Googling and 10% Stack Overflow.."
->  "My code doesn’t always run, but when it does, I don’t know why."
->  "I write code — sometimes even the compiler agrees."
-
+**Task Manager App**  
+Basic task management application with add/delete functionality.
 
 ---
 
-## 🔗 Let's Connect
+## GitHub Stats
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/ethicalprjapati2](https://www.instagram.com/hack.platform_/))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/](https://www.youtube.com/@Hackplatform2.o))
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ethicalprjapati2&show_icons=true&hide_border=true" width="48%" />
+</p>
 
 ---
 
+## Focus
+
+- Writing clean and maintainable code  
+- Building real-world projects  
+- Improving problem-solving skills  
+
+---
+
+## Contact
+
+📧 princeprjapati2006@gmail.com  
+
+---
+
+## Connect
+
+<p align="center">
+
+<a href="https://www.instagram.com/hack.platform_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@Hackplatform2.o">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/your-linkedin-username">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
